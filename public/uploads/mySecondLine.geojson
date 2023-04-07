@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mySecondLine",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::7856" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "name": "hawkesbury" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 326495.824887751776259, 6291269.363494886085391 ], [ 326105.804769414011389, 6299371.145043994300067 ], [ 332718.418593959242571, 6299264.775920811109245 ] ] ] } }
+]
+}
